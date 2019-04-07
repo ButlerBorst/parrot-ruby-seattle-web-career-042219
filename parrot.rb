@@ -5,4 +5,3 @@ def parrot(squawk)
   return  
 end 
 
-parrot ("relax")
